@@ -5,7 +5,7 @@
     "pkgName": "com.spotify.music",
     "description": "Müzik ve Podcast",
     "iconUrl": "https://raw.githubusercontent.com/fymcontroller-ux/FY-Store/main/icons/spotify.png",
-    "downloadUrl": "https://drive.google.com/uc?export=download&id=1vqCD3Q0439kMGaalFRSCUUDbUBUGvAye",
+    "downloadUrl": "https://github.com/fymcontroller-ux/FY-Store/releases/download/v1.0/spotify.apk",
     "version": "9.0.84.1313"
   },
   {
@@ -14,7 +14,7 @@
     "pkgName": "com.inat.box",
     "description": "TV ve Dizi",
     "iconUrl": "https://raw.githubusercontent.com/fymcontroller-ux/FY-Store/main/icons/inat.png",
-    "downloadUrl": "https://drive.google.com/uc?export=download&id=1ccbfGWvTjmmEwSy1W6T3rYb1Ji",
+    "downloadUrl": "https://github.com/fymcontroller-ux/FY-Store/releases/download/v1.0/inat.apk",
     "version": "15.0"
   },
   {
@@ -23,7 +23,7 @@
     "pkgName": "ru.yandex.yandexnavi",
     "description": "Harita",
     "iconUrl": "https://raw.githubusercontent.com/fymcontroller-ux/FY-Store/main/icons/yandex.png",
-    "downloadUrl": "https://drive.google.com/uc?export=download&id=1o_diFPZVmwo5IM5s6tDl2AktZe0-XHkq",
+    "downloadUrl": "https://github.com/fymcontroller-ux/FY-Store/releases/download/v1.0/yandex.apk",
     "version": "27.2.2"
   },
   {
@@ -32,7 +32,7 @@
     "pkgName": "com.google.android.apps.maps",
     "description": "Harita",
     "iconUrl": "https://raw.githubusercontent.com/fymcontroller-ux/FY-Store/main/icons/googlemaps.png",
-    "downloadUrl": "https://drive.google.com/uc?export=download&id=1KP5lr3SeO6vezIxMbu1q_h50PMtKEvSD",
+    "downloadUrl": "https://github.com/fymcontroller-ux/FY-Store/releases/download/v1.0/googlemaps.apk",
     "version": "10.80.42.E"
   },
   {
@@ -41,7 +41,7 @@
     "pkgName": "com.opera.touch",
     "description": "Opera",
     "iconUrl": "https://raw.githubusercontent.com/fymcontroller-ux/FY-Store/main/icons/opera.png",
-    "downloadUrl": "https://drive.google.com/uc?export=download&id=1tAuu6F3O7-1JO9ach2TnFvX4onSubS93",
+    "downloadUrl": "https://github.com/fymcontroller-ux/FY-Store/releases/download/v1.0/opera.apk",
     "version": "1.9.2"
   },
   {
@@ -50,7 +50,7 @@
     "pkgName": "com.whatsapp",
     "description": "Opera",
     "iconUrl": "https://raw.githubusercontent.com/fymcontroller-ux/FY-Store/main/icons/whatsapp.png",
-    "downloadUrl": "https://drive.google.com/uc?export=download&id=1cCykQYfhNMBUdozYERftndu9fhX0JLMQ",
+    "downloadUrl": "https://github.com/fymcontroller-ux/FY-Store/releases/download/v1.0/whatsapp.apk",
     "version": "2.26.5.75"
   },
   {
@@ -59,7 +59,7 @@
     "pkgName": "com.trt.tabii.android",
     "description": "Tabii",
     "iconUrl": "https://raw.githubusercontent.com/fymcontroller-ux/FY-Store/main/icons/tabii.png",
-    "downloadUrl": "https://drive.google.com/uc?export=download&id=1ROKLHIoxvcy0sF4W33oMFE4ilUWdNHoR",
+    "downloadUrl": "https://github.com/fymcontroller-ux/FY-Store/releases/download/v1.0/tabii.xapk",
     "version": "1.1.19"
   },
   {
@@ -68,7 +68,7 @@
     "pkgName": "com.netflix.mediaclient",
     "description": "Netflix",
     "iconUrl": "https://raw.githubusercontent.com/fymcontroller-ux/FY-Store/main/icons/netflix.png",
-    "downloadUrl": "https://drive.google.com/uc?export=download&id=1QZ-OA9dMiM5513tzq6FbVR0K4StrjaYA",
+    "downloadUrl": "https://github.com/fymcontroller-ux/FY-Store/releases/download/v1.0/netflix.xapk",
     "version": "9.36.0"
   },
   {
@@ -77,7 +77,7 @@
     "pkgName": "com.google.android.apps.automotive.templates.host",
     "description": "Google Automotive",
     "iconUrl": "https://raw.githubusercontent.com/fymcontroller-ux/FY-Store/main/icons/googleautomotive.png",
-    "downloadUrl": "https://drive.google.com/uc?export=download&id=1CWqkC1BL-yegJJ_p1VpQByngKMXzf0LM",
+    "downloadUrl": "https://github.com/fymcontroller-ux/FY-Store/releases/download/v1.0/googleautomotive.apk",
     "version": "17366"
   }
 ]
