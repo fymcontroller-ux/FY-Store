@@ -2,11 +2,11 @@
    {
     "id": "1",
     "name": "Google Play Fix (MicroG)",
-    "pkgName": "com.mgoogle.android.gms",
+    "pkgName": "app.revanced.android.gms",
     "description": "YouTube ve Haritalar gibi Google uygulamalarının çalışmasını sağlayan servis paketi.",
     "iconUrl": "https://raw.githubusercontent.com/fymcontroller-ux/FY-Store/main/icons/microg.png",
     "downloadUrl": "https://github.com/vancedto/vanced.to/releases/download/2026-7/vanced.to_vanced_gms_microg_v0.3.1.4.240913.apk",
-    "version": "0.2.24"
+    "version": "0.3.1.4.240913"
   },  
   {
     "id": "2",
@@ -20,7 +20,7 @@
   {
     "id": "3",
     "name": "İnat BOX",
-    "pkgName": "com.inat.box",
+    "pkgName": "com.bp.box",
     "description": "TV ve Dizi",
     "iconUrl": "https://raw.githubusercontent.com/fymcontroller-ux/FY-Store/main/icons/inat.png",
     "downloadUrl": "https://github.com/fymcontroller-ux/FY-Store/releases/download/v1.0/inat.apk",
@@ -90,5 +90,6 @@
     "version": "17366"
   }
 ]
+
 
 
