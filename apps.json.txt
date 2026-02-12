@@ -5,7 +5,7 @@
     "pkgName": "com.mgoogle.android.gms",
     "description": "YouTube ve Haritalar gibi Google uygulamalarının çalışmasını sağlayan servis paketi.",
     "iconUrl": "https://raw.githubusercontent.com/fymcontroller-ux/FY-Store/main/icons/microg.png",
-    "downloadUrl": "https://github.com/TeamVanced/VancedMicroG/releases/download/v0.2.24.220220/microg.apk",
+    "downloadUrl": "https://github.com/vancedto/vanced.to/releases/download/2026-7/vanced.to_vanced_gms_microg_v0.3.1.4.240913.apk",
     "version": "0.2.24"
   },  
   {
@@ -90,4 +90,5 @@
     "version": "17366"
   }
 ]
+
 
