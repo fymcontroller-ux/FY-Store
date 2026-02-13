@@ -1,24 +1,33 @@
 [
    {
     "id": "1",
-    "name": "Google Play Fix (MicroG)",
+    "name": "Google Hizmetleri (MicroG)",
     "pkgName": "app.revanced.android.gms",
     "description": "YouTube ve Haritalar gibi Google uygulamalarının çalışmasını sağlayan servis paketi.",
     "iconUrl": "https://raw.githubusercontent.com/fymcontroller-ux/FY-Store/main/icons/microg.png",
     "downloadUrl": "https://github.com/vancedto/vanced.to/releases/download/2026-7/vanced.to_vanced_gms_microg_v0.3.1.4.240913.apk",
     "version": "0.3.1.4.240913"
-  },  
+  },
   {
     "id": "2",
-    "name": "Spotify",
-    "pkgName": "com.spotify.music",
-    "description": "Müzik ve Podcast",
-    "iconUrl": "https://raw.githubusercontent.com/fymcontroller-ux/FY-Store/main/icons/spotify.png",
-    "downloadUrl": "https://github.com/fymcontroller-ux/FY-Store/releases/download/v1.0/spotify.apk",
-    "version": "9.0.84.1313"
+    "name": "Google Play Hizmetleri",
+    "pkgName": "com.google.android.gms",
+    "description": "Google Play İçin",
+    "iconUrl": "https://raw.githubusercontent.com/fymcontroller-ux/FY-Store/main/icons/googleplayhizmetleri.png",
+    "downloadUrl": "https://github.com/fymcontroller-ux/FY-Store/releases/download/v1.0/googleplayhizmetleri.apk",
+    "version": "26.05.32"
   },
   {
     "id": "3",
+    "name": "Google Play Store",
+    "pkgName": "com.android.vending",
+    "description": "Play Store",
+    "iconUrl": "https://raw.githubusercontent.com/fymcontroller-ux/FY-Store/main/icons/googleplaystore.png",
+    "downloadUrl": "https://github.com/fymcontroller-ux/FY-Store/releases/download/v1.0/googleplaystore.apk",
+    "version": "49.9.19"
+  },
+  {
+    "id": "4",
     "name": "İnat BOX",
     "pkgName": "com.bp.box",
     "description": "TV ve Dizi",
@@ -27,7 +36,7 @@
     "version": "15.0"
   },
   {
-    "id": "4",
+    "id": "5",
     "name": "Yandex",
     "pkgName": "ru.yandex.yandexnavi",
     "description": "Harita",
@@ -36,7 +45,7 @@
     "version": "27.2.2"
   },
   {
-    "id": "5",
+    "id": "6",
     "name": "Google Maps",
     "pkgName": "com.google.android.apps.maps",
     "description": "Harita",
@@ -45,7 +54,16 @@
     "version": "10.80.42.E"
   },
   {
-    "id": "6",
+    "id": "7",
+    "name": "Waze",
+    "pkgName": "com.waze",
+    "description": "Harita",
+    "iconUrl": "https://raw.githubusercontent.com/fymcontroller-ux/FY-Store/main/icons/waze.png",
+    "downloadUrl": "https://github.com/fymcontroller-ux/FY-Store/releases/download/v1.0/waze.xapk",
+    "version": "10.80.42.E"
+  },
+  {
+    "id": "8",
     "name": "Opera",
     "pkgName": "com.opera.touch",
     "description": "Opera",
@@ -54,7 +72,16 @@
     "version": "1.9.2"
   },
   {
-    "id": "7",
+    "id": "9",
+    "name": "Opera Mini",
+    "pkgName": "com.opera.mini.native",
+    "description": "Opera Mini",
+    "iconUrl": "https://raw.githubusercontent.com/fymcontroller-ux/FY-Store/main/icons/operamini.png",
+    "downloadUrl": "https://github.com/fymcontroller-ux/FY-Store/releases/download/v1.0/operamini.apk",
+    "version": "97.1.2254.80849"
+  },
+  {
+    "id": "10",
     "name": "Whatsapp",
     "pkgName": "com.whatsapp",
     "description": "Opera",
@@ -63,7 +90,7 @@
     "version": "2.26.5.75"
   },
   {
-    "id": "8",
+    "id": "11",
     "name": "Tabii",
     "pkgName": "com.trt.tabii.android",
     "description": "Tabii",
@@ -72,7 +99,7 @@
     "version": "1.1.19"
   },
   {
-    "id": "9",
+    "id": "12",
     "name": "Netflix",
     "pkgName": "com.netflix.mediaclient",
     "description": "Netflix",
@@ -81,15 +108,21 @@
     "version": "9.36.0"
   },
   {
-    "id": "10",
-    "name": "Google Automotive",
-    "pkgName": "com.google.android.apps.automotive.templates.host",
-    "description": "Google Automotive",
-    "iconUrl": "https://raw.githubusercontent.com/fymcontroller-ux/FY-Store/main/icons/googleautomotive.png",
-    "downloadUrl": "https://github.com/fymcontroller-ux/FY-Store/releases/download/v1.0/googleautomotive.apk",
-    "version": "17366"
+    "id": "13",
+    "name": "Audible",
+    "pkgName": "com.audible.application",
+    "description": "Sesli Kitap",
+    "iconUrl": "https://raw.githubusercontent.com/fymcontroller-ux/FY-Store/main/icons/audible.png",
+    "downloadUrl": "https://github.com/fymcontroller-ux/FY-Store/releases/download/v1.0/audible.apk",
+    "version": "26.06.04"
+  },
+  {
+    "id": "14",
+    "name": "Pandora",
+    "pkgName": "com.brl.pandora",
+    "description": "En sevdiğiniz sanatçılara ve şarkılara göre kişiselleştirilmiş radyo.",
+    "iconUrl": "https://raw.githubusercontent.com/fymcontroller-ux/FY-Store/main/icons/pandora.png",
+    "downloadUrl": "https://github.com/fymcontroller-ux/FY-Store/releases/download/v1.0/pandora.apk",
+    "version": "2.0.2"
   }
 ]
-
-
-
