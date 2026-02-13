@@ -142,8 +142,18 @@
     "iconUrl": "https://raw.githubusercontent.com/fymcontroller-ux/FY-Store/main/icons/spotify.png",
     "downloadUrl": "https://github.com/fymcontroller-ux/FY-Store/releases/download/v1.0/spotify.apk",
     "version": "9.1.22.1630"
+  },
+  {
+    "id": "17",
+    "name": "Fizy: Music and Podcasts",
+    "pkgName": "com.turkcell.gncplay",
+    "description": "Fizy",
+    "iconUrl": "https://raw.githubusercontent.com/fymcontroller-ux/FY-Store/main/icons/fizy.png",
+    "downloadUrl": "https://github.com/fymcontroller-ux/FY-Store/releases/download/v1.0/fizy.xapk",
+    "version": "9.4.2"
   }
 ]
+
 
 
 
