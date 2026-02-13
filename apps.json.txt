@@ -109,24 +109,6 @@
   },
   {
     "id": "13",
-    "name": "Audible",
-    "pkgName": "com.audible.application",
-    "description": "Sesli Kitap",
-    "iconUrl": "https://raw.githubusercontent.com/fymcontroller-ux/FY-Store/main/icons/audible.png",
-    "downloadUrl": "https://github.com/fymcontroller-ux/FY-Store/releases/download/v1.0/audible.apk",
-    "version": "26.06.04"
-  },
-  {
-    "id": "14",
-    "name": "Pandora",
-    "pkgName": "com.brl.pandora",
-    "description": "En sevdiğiniz sanatçılara ve şarkılara göre kişiselleştirilmiş radyo.",
-    "iconUrl": "https://raw.githubusercontent.com/fymcontroller-ux/FY-Store/main/icons/pandora.png",
-    "downloadUrl": "https://github.com/fymcontroller-ux/FY-Store/releases/download/v1.0/pandora.apk",
-    "version": "2.0.2"
-  },
-  {
-    "id": "15",
     "name": "Youtube Music",
     "pkgName": "com.brl.pandora",
     "description": "Youtube Music",
@@ -135,7 +117,7 @@
     "version": "8.10.52"
   },
   {
-    "id": "16",
+    "id": "14",
     "name": "Spotify: Music and Podcasts",
     "pkgName": "com.spotify.music",
     "description": "Spotify",
@@ -144,7 +126,7 @@
     "version": "9.1.22.1630"
   },
   {
-    "id": "17",
+    "id": "15",
     "name": "Fizy: Music and Podcasts",
     "pkgName": "com.turkcell.gncplay",
     "description": "Fizy",
@@ -153,6 +135,7 @@
     "version": "9.4.2"
   }
 ]
+
 
 
 
