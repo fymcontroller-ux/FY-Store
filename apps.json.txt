@@ -10,24 +10,15 @@
   },
   {
     "id": "2",
-    "name": "Google Play Hizmetleri",
-    "pkgName": "com.google.android.gms",
-    "description": "Google Play İçin",
-    "iconUrl": "https://raw.githubusercontent.com/fymcontroller-ux/FY-Store/main/icons/googleplayhizmetleri.png",
-    "downloadUrl": "https://github.com/fymcontroller-ux/FY-Store/releases/download/v1.0/googleplayhizmetleri.apk",
-    "version": "26.05.32"
+    "name": "Chromium",
+    "pkgName": "org.chromium.chrome",
+    "description": "Web Sayfası",
+    "iconUrl": "https://raw.githubusercontent.com/fymcontroller-ux/FY-Store/main/icons/chromium.png",
+    "downloadUrl": "https://github.com/fymcontroller-ux/FY-Store/releases/download/v1.0/chromium.apk",
+    "version": "101.0.4926.0"
   },
   {
     "id": "3",
-    "name": "Google Play Store",
-    "pkgName": "com.android.vending",
-    "description": "Play Store",
-    "iconUrl": "https://raw.githubusercontent.com/fymcontroller-ux/FY-Store/main/icons/googleplaystore.png",
-    "downloadUrl": "https://github.com/fymcontroller-ux/FY-Store/releases/download/v1.0/googleplaystore.apk",
-    "version": "49.9.19"
-  },
-  {
-    "id": "4",
     "name": "İnat BOX",
     "pkgName": "com.bp.box",
     "description": "TV ve Dizi",
@@ -36,7 +27,7 @@
     "version": "15.0"
   },
   {
-    "id": "5",
+    "id": "4",
     "name": "Yandex",
     "pkgName": "ru.yandex.yandexnavi",
     "description": "Harita",
@@ -45,7 +36,7 @@
     "version": "27.2.2"
   },
   {
-    "id": "6",
+    "id": "5",
     "name": "Google Maps",
     "pkgName": "com.google.android.apps.maps",
     "description": "Harita",
@@ -54,7 +45,7 @@
     "version": "10.80.42.E"
   },
   {
-    "id": "7",
+    "id": "6",
     "name": "Waze",
     "pkgName": "com.waze",
     "description": "Harita",
@@ -63,25 +54,7 @@
     "version": "5.16.0.2"
   },
   {
-    "id": "8",
-    "name": "Opera",
-    "pkgName": "com.opera.touch",
-    "description": "Opera",
-    "iconUrl": "https://raw.githubusercontent.com/fymcontroller-ux/FY-Store/main/icons/opera.png",
-    "downloadUrl": "https://github.com/fymcontroller-ux/FY-Store/releases/download/v1.0/opera.apk",
-    "version": "1.9.2"
-  },
-  {
-    "id": "9",
-    "name": "Opera Mini",
-    "pkgName": "com.opera.mini.native",
-    "description": "Opera Mini",
-    "iconUrl": "https://raw.githubusercontent.com/fymcontroller-ux/FY-Store/main/icons/operamini.png",
-    "downloadUrl": "https://github.com/fymcontroller-ux/FY-Store/releases/download/v1.0/operamini.apk",
-    "version": "97.1.2254.80849"
-  },
-  {
-    "id": "10",
+    "id": "7",
     "name": "Whatsapp",
     "pkgName": "com.whatsapp",
     "description": "Opera",
@@ -90,7 +63,7 @@
     "version": "2.26.5.75"
   },
   {
-    "id": "11",
+    "id": "8",
     "name": "Tabii",
     "pkgName": "com.trt.tabii.android",
     "description": "Tabii",
@@ -99,7 +72,7 @@
     "version": "1.1.19"
   },
   {
-    "id": "12",
+    "id": "9",
     "name": "Netflix",
     "pkgName": "com.netflix.mediaclient",
     "description": "Netflix",
@@ -108,7 +81,7 @@
     "version": "9.36.0"
   },
   {
-    "id": "13",
+    "id": "10",
     "name": "Youtube Music",
     "pkgName": "com.brl.pandora",
     "description": "Youtube Music",
@@ -117,7 +90,7 @@
     "version": "8.10.52"
   },
   {
-    "id": "14",
+    "id": "11",
     "name": "Spotify: Music and Podcasts",
     "pkgName": "com.spotify.music",
     "description": "Spotify",
@@ -126,7 +99,7 @@
     "version": "9.1.22.1630"
   },
   {
-    "id": "15",
+    "id": "12",
     "name": "Fizy: Music and Podcasts",
     "pkgName": "com.turkcell.gncplay",
     "description": "Fizy",
@@ -135,6 +108,7 @@
     "version": "9.4.2"
   }
 ]
+
 
 
 
