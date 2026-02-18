@@ -106,8 +106,36 @@
     "iconUrl": "https://raw.githubusercontent.com/fymcontroller-ux/FY-Store/main/icons/fizy.png",
     "downloadUrl": "https://github.com/fymcontroller-ux/FY-Store/releases/download/v1.0/fizy.apk",
     "version": "9.4.2"
+  },
+  {
+    "id": "13",
+    "name": "Deezer",
+    "pkgName": "deezer.android.app",
+    "description": "Deezer",
+    "iconUrl": "https://raw.githubusercontent.com/fymcontroller-ux/FY-Store/main/icons/deezer.png",
+    "downloadUrl": "https://github.com/fymcontroller-ux/FY-Store/releases/download/v1.0/deezer.apk",
+    "version": "8.0.0.18"
+  },
+  {
+    "id": "14",
+    "name": "FY Youtube",
+    "pkgName": "com.fatih.fytube",
+    "description": "FY Youtube",
+    "iconUrl": "https://raw.githubusercontent.com/fymcontroller-ux/FY-Store/main/icons/deezer.png",
+    "downloadUrl": "https://github.com/fymcontroller-ux/FY-Store/releases/download/v1.0/fytube.apk",
+    "version": "8.0.0.18"
+  },
+  {
+    "id": "15",
+    "name": "Youtube",
+    "pkgName": "app.revanced.android.youtube",
+    "description": "Youtube",
+    "iconUrl": "https://raw.githubusercontent.com/fymcontroller-ux/FY-Store/main/icons/vancedyoutube.png",
+    "downloadUrl": "https://github.com/fymcontroller-ux/FY-Store/releases/download/v1.0/vancedyoutube.apk",
+    "version": "8.0.0.18"
   }
 ]
+
 
 
 
