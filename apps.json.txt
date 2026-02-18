@@ -9,6 +9,15 @@
     "version": "0.3.1.4.240913"
   },
   {
+    "id": "1",
+    "name": "Aptoide",
+    "pkgName": "cm.aptoide.pt",
+    "description": "Mağaza Uygulaması",
+    "iconUrl": "https://raw.githubusercontent.com/fymcontroller-ux/FY-Store/main/icons/aptoide.png",
+    "downloadUrl": "https://github.com/fymcontroller-ux/FY-Store/releases/download/v1.0/aptoide.apk",
+    "version": "9.22.5.3"
+  },
+  {
     "id": "2",
     "name": "Chromium",
     "pkgName": "org.chromium.chrome",
@@ -135,6 +144,7 @@
     "version": "20.14.43"
   }
 ]
+
 
 
 
