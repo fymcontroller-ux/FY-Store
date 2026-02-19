@@ -1,7 +1,7 @@
 [
    {
     "id": "0",
-    "name": "FY MANAGER",
+    "name": "FY MANAGERxxx",
     "pkgName": "com.fatih.fym",
     "description": "KULLANMAKTA OLDUĞUNUZ UYGULAMANIN GÜNCEL DURUMUNU BURADAN TAKİP EDEBİLİRSİNİZ!!!",
     "iconUrl": "https://raw.githubusercontent.com/fymcontroller-ux/FY-Store/main/icons/fymanager.png",
@@ -153,6 +153,7 @@
     "version": "20.14.43"
   }
 ]
+
 
 
 
