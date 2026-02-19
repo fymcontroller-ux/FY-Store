@@ -6,7 +6,7 @@
     "description": "KULLANMAKTA OLDUĞUNUZ UYGULAMANIN GÜNCEL DURUMUNU BURADAN TAKİP EDEBİLİRSİNİZ!!!",
     "iconUrl": "https://raw.githubusercontent.com/fymcontroller-ux/FY-Store/main/icons/fymanager.png",
     "downloadUrl": "https://github.com/ReVanced/GmsCore/releases/download/v0.3.1.4.240913/app.revanced.android.gms-240913008-signed.apk",
-    "version": "0.3.1.4.240913"
+    "version": "V1"
   },
    {
     "id": "1",
@@ -153,6 +153,7 @@
     "version": "20.14.43"
   }
 ]
+
 
 
 
