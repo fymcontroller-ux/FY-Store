@@ -14,8 +14,8 @@
     "pkgName": "app.revanced.android.gms",
     "description": "YouTube ve Haritalar gibi Google uygulamalarının çalışmasını sağlayan servis paketi.",
     "iconUrl": "https://raw.githubusercontent.com/fymcontroller-ux/FY-Store/main/icons/microg.png",
-    "downloadUrl": "https://github.com/ReVanced/GmsCore/releases/download/v0.3.1.4.240913/app.revanced.android.gms-240913008-signed.apk",
-    "version": "0.3.1.4.240913"
+    "downloadUrl": "https://github.com/ReVanced/GmsCore/releases/download/v0.3.13.2.250932/app.revanced.android.gms-250932004-signed.apk",
+    "version": "0.3.13.2.250932"
   },
   {
     "id": "2",
@@ -135,6 +135,7 @@
     "version": "20.14.43"
   }
 ]
+
 
 
 
