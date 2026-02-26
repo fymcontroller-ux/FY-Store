@@ -6,7 +6,7 @@
     "description": "KULLANMAKTA OLDUĞUNUZ UYGULAMANIN GÜNCEL DURUMUNU BURADAN TAKİP EDEBİLİRSİNİZ!!!",
     "iconUrl": "https://raw.githubusercontent.com/fymcontroller-ux/FY-Store/main/icons/fymanager.png",
     "downloadUrl": "https://github.com/fymcontroller-ux/FY-Store/releases/download/v1.0/fymanager.apk",
-    "version": "11"
+    "version": "12"
   },
   {
     "id": "0.1",
@@ -15,7 +15,7 @@
     "description": "Ses Asistanı Uygulaması.",
     "iconUrl": "https://raw.githubusercontent.com/fymcontroller-ux/FY-Store/main/icons/fyvoice.png",
     "downloadUrl": "https://github.com/fymcontroller-ux/FY-Store/releases/download/v1.0/fyvoice.apk",
-    "version": "9"
+    "version": "10"
   },
   {
     "id": "0.2",
@@ -117,6 +117,7 @@
     "version": "8.0.0.18"
   }
 ]
+
 
 
 
