@@ -87,7 +87,7 @@
     "description": "Netflix",
     "iconUrl": "https://raw.githubusercontent.com/fymcontroller-ux/FY-Store/main/icons/netflix.png",
     "downloadUrl": "https://github.com/fymcontroller-ux/FY-Store/releases/download/v1.0/netflix.apk",
-    "version": "9.53.1"
+    "version": "9.53.1 build 9 64045"
   },
   {
     "id": "7",
@@ -108,6 +108,7 @@
     "version": "8.0.0.18"
   }
 ]
+
 
 
 
