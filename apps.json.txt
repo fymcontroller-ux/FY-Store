@@ -37,24 +37,6 @@
   },
   {
     "id": "1",
-    "name": "Google Hizmetleri (MicroG)",
-    "pkgName": "app.revanced.android.gms",
-    "description": "YouTube ve Haritalar gibi Google uygulamalarının çalışmasını sağlayan servis paketi.",
-    "iconUrl": "https://raw.githubusercontent.com/fymcontroller-ux/FY-Store/main/icons/microg.png",
-    "downloadUrl": "https://github.com/ReVanced/GmsCore/releases/download/v0.3.13.2.250932/app.revanced.android.gms-250932004-signed.apk",
-    "version": "0.3.13.2.250932"
-  },
-  {
-    "id": "2",
-    "name": "Aptoide",
-    "pkgName": "cm.aptoide.pt",
-    "description": "Mağaza Uygulaması",
-    "iconUrl": "https://raw.githubusercontent.com/fymcontroller-ux/FY-Store/main/icons/aptoide.png",
-    "downloadUrl": "https://github.com/fymcontroller-ux/FY-Store/releases/download/v1.0/aptoide.apk",
-    "version": "9.22.5.3"
-  },
-  {
-    "id": "3",
     "name": "Chromium",
     "pkgName": "org.chromium.chrome",
     "description": "Web Sayfası",
@@ -63,7 +45,7 @@
     "version": "101.0.4926.0"
   },
   {
-    "id": "4",
+    "id": "2",
     "name": "İnat BOX",
     "pkgName": "com.bp.box",
     "description": "TV ve Dizi",
@@ -72,7 +54,7 @@
     "version": "15.0"
   },
   {
-    "id": "5",
+    "id": "3",
     "name": "Yandex",
     "pkgName": "ru.yandex.yandexnavi",
     "description": "Harita",
@@ -81,7 +63,7 @@
     "version": "27.2.2"
   },
   {
-    "id": "6",
+    "id": "4",
     "name": "Waze",
     "pkgName": "com.waze",
     "description": "Harita",
@@ -90,7 +72,7 @@
     "version": "5.16.0.2"
   },
   {
-    "id": "7",
+    "id": "5",
     "name": "Whatsapp",
     "pkgName": "com.whatsapp",
     "description": "Opera",
@@ -99,7 +81,7 @@
     "version": "2.26.5.75"
   },
   {
-    "id": "8",
+    "id": "6",
     "name": "Netflix",
     "pkgName": "com.netflix.mediaclient",
     "description": "Netflix",
@@ -108,7 +90,7 @@
     "version": "9.53.1"
   },
   {
-    "id": "9",
+    "id": "7",
     "name": "Spotify: Music and Podcasts",
     "pkgName": "com.spotify.music",
     "description": "Spotify",
@@ -117,7 +99,7 @@
     "version": "9.1.22.1630"
   },
   {
-    "id": "10",
+    "id": "8",
     "name": "Deezer",
     "pkgName": "deezer.android.app",
     "description": "Deezer",
@@ -126,6 +108,7 @@
     "version": "8.0.0.18"
   }
 ]
+
 
 
 
