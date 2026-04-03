@@ -15,7 +15,7 @@
         "description":  "Ses Asistanı Uygulaması.",
         "iconUrl":  "https://raw.githubusercontent.com/fymcontroller-ux/FY-Store/main/icons/fyvoice.png",
         "downloadUrl":  "https://github.com/fymcontroller-ux/FY-Store/releases/download/v1.0/fyv.bin",
-        "version":  "91"
+        "version":  "92"
     },
     {
         "id":  "0.2",
