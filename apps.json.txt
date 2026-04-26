@@ -107,13 +107,4 @@
         "downloadUrl":  "https://github.com/fymcontroller-ux/FY-Store/releases/download/v1.0/iptvsmarters.apk",
         "version":  "5.1"
     },
-    {
-        "id":  "9",
-        "name":  "Netflix",
-        "pkgName":  "com.fatih.fynetflix",
-        "description":  "Eğlence - Yaşam",
-        "iconUrl":  "https://raw.githubusercontent.com/fymcontroller-ux/FY-Store/main/icons/netflix.png",
-        "downloadUrl":  "https://github.com/fymcontroller-ux/FY-Store/releases/download/v1.0/netflix.apk",
-        "version":  "1.0"
-    }
 ]
