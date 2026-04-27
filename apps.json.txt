@@ -100,6 +100,15 @@
     },
     {
         "id":  "8",
+        "name":  "FY Bein Connect",
+        "pkgName":  "com.fatih.fybeinconnect",
+        "description":  "Eğlence - Yaşam",
+        "iconUrl":  "https://raw.githubusercontent.com/fymcontroller-ux/FY-Store/main/icons/beinconnect.png",
+        "downloadUrl":  "https://github.com/fymcontroller-ux/FY-Store/releases/download/v1.0/fybeinconnect.apk",
+        "version":  "3"
+    },
+    {
+        "id":  "9",
         "name":  "IP TV SMARTERS",
         "pkgName":  "com.nst.smartersplayer",
         "description":  "IP TV",
@@ -108,7 +117,7 @@
         "version":  "5.1"
     },
     {
-        "id":  "9",
+        "id":  "10",
         "name":  "SMART TUBE",
         "pkgName":  "org.smarttube.stable",
         "description":  "Youtube",
