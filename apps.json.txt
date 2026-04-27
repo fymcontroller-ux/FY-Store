@@ -99,12 +99,21 @@
         "version":  "5.6.4b728"
     },
     {
-        "id":  "9",
+        "id":  "8",
         "name":  "IP TV SMARTERS",
         "pkgName":  "com.nst.smartersplayer",
         "description":  "IP TV",
         "iconUrl":  "https://raw.githubusercontent.com/fymcontroller-ux/FY-Store/main/icons/iptvsmarters.png",
         "downloadUrl":  "https://github.com/fymcontroller-ux/FY-Store/releases/download/v1.0/iptvsmarters.apk",
         "version":  "5.1"
+    },
+    {
+        "id":  "9",
+        "name":  "SMART TUBE",
+        "pkgName":  "org.smarttube.stable",
+        "description":  "Youtube",
+        "iconUrl":  "https://raw.githubusercontent.com/fymcontroller-ux/FY-Store/main/icons/smarttube.png",
+        "downloadUrl":  "https://github.com/fymcontroller-ux/FY-Store/releases/download/v1.0/smarttube.apk",
+        "version":  "31.63"
     }
 ]
