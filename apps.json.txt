@@ -10,6 +10,15 @@
     },
     {
         "id":  "0.1",
+        "name":  "FY MANAGER",
+        "pkgName":  "com.fatih.fymotg",
+        "description":  "KULLANMAKTA OLDUĞUNUZ UYGULAMANIN GÜNCEL DURUMUNU BURADAN TAKİP EDEBİLİRSİNİZ!!!",
+        "iconUrl":  "https://raw.githubusercontent.com/fymcontroller-ux/FY-Store/main/icons/fy_manager.png",
+        "downloadUrl":  "https://github.com/fymcontroller-ux/FY-Store/releases/download/v1.0/fymotg.bin",
+        "version":  "1"
+    },
+    {
+        "id":  "0.2",
         "name":  "FY VOICE",
         "pkgName":  "com.fatih.fyvoice",
         "description":  "Ses Asistanı Uygulaması.",
@@ -18,7 +27,7 @@
         "version":  "93"
     },
     {
-        "id":  "0.2",
+        "id":  "0.3",
         "name":  "FY Youtube",
         "pkgName":  "com.fatih.fytube",
         "description":  "FY Youtube",
@@ -27,7 +36,7 @@
         "version":  "78"
     },
     {
-        "id":  "0.3",
+        "id":  "0.4",
         "name":  "FY Youtube Music",
         "pkgName":  "com.fatih.fytubemusic",
         "description":  "FY Youtube Music",
