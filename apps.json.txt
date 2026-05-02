@@ -118,15 +118,6 @@
     },
     {
         "id":  "10",
-        "name":  "SMART TUBE",
-        "pkgName":  "org.smarttube.stable",
-        "description":  "Youtube",
-        "iconUrl":  "https://raw.githubusercontent.com/fymcontroller-ux/FY-Store/main/icons/smarttube.png",
-        "downloadUrl":  "https://github.com/fymcontroller-ux/FY-Store/releases/download/v1.0/smarttube.apk",
-        "version":  "31.63"
-    },
-    {
-        "id":  "11",
         "name":  "AMAZON PRIME",
         "pkgName":  "com.amazon.avod.thirdpartyclient",
         "description":  "Eğlence - Yaşam",
