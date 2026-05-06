@@ -142,5 +142,14 @@
         "iconUrl":  "https://raw.githubusercontent.com/fymcontroller-ux/FY-Store/main/icons/netvgoldv10.png",
         "downloadUrl":  "https://github.com/fymcontroller-ux/FY-Store/releases/download/v1.0/netvgold2026.apk",
         "version":  "9.8"
+    },
+    {
+        "id":  "12",
+        "name":  "RADYO TURK",
+        "pkgName":  "idu.com.radio.radyoturk",
+        "description":  "Eğlence - Yaşam",
+        "iconUrl":  "https://raw.githubusercontent.com/fymcontroller-ux/FY-Store/main/icons/radyoturk.png",
+        "downloadUrl":  "https://github.com/fymcontroller-ux/FY-Store/releases/download/v1.0/radyoturk.apk",
+        "version":  "2.7.3"
     }
 ]
