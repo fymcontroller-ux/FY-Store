@@ -109,15 +109,6 @@
     },
     {
         "id":  "8",
-        "name":  "FY Bein Connect",
-        "pkgName":  "com.fatih.fybeinconnect",
-        "description":  "Eğlence - Yaşam",
-        "iconUrl":  "https://raw.githubusercontent.com/fymcontroller-ux/FY-Store/main/icons/beinconnect.png",
-        "downloadUrl":  "https://github.com/fymcontroller-ux/FY-Store/releases/download/v1.0/fybeinconnect.apk",
-        "version":  "3"
-    },
-    {
-        "id":  "9",
         "name":  "IP TV SMARTERS",
         "pkgName":  "com.nst.smartersplayer",
         "description":  "IP TV",
@@ -126,7 +117,7 @@
         "version":  "5.1"
     },
     {
-        "id":  "10",
+        "id":  "9",
         "name":  "AMAZON PRIME",
         "pkgName":  "com.amazon.avod.thirdpartyclient",
         "description":  "Eğlence - Yaşam",
@@ -135,7 +126,7 @@
         "version":  "3.0.453.357"
     },
     {
-        "id":  "11",
+        "id":  "10",
         "name":  "NETV GOLD",
         "pkgName":  "com.bynetvgoldv11",
         "description":  "Eğlence - Yaşam",
@@ -144,7 +135,7 @@
         "version":  "9.8"
     },
     {
-        "id":  "12",
+        "id":  "11",
         "name":  "RADYO TURK",
         "pkgName":  "idu.com.radio.radyoturk",
         "description":  "Eğlence - Yaşam",
@@ -153,7 +144,7 @@
         "version":  "2.7.3"
     },
     {
-        "id":  "13",
+        "id":  "12",
         "name":  "REC TV",
         "pkgName":  "com.rectv.shot",
         "description":  "Dizi Film Uygulaması (Netflix)",
