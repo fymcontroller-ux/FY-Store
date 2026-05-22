@@ -78,7 +78,7 @@
         "description":  "Harita",
         "iconUrl":  "https://raw.githubusercontent.com/fymcontroller-ux/FY-Store/main/icons/waze.png",
         "downloadUrl":  "https://github.com/fymcontroller-ux/FY-Store/releases/download/v1.0/waze.apk",
-        "version":  "5.16.0.2"
+        "version":  "4.89.0.1"
     },
     {
         "id":  "5",
