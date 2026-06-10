@@ -158,7 +158,7 @@
         "pkgName":  "com.lmr.lfm",
         "description":  "Eğlence - Yaşam",
         "iconUrl":  "https://raw.githubusercontent.com/fymcontroller-ux/FY-Store/main/icons/mtv.png",
-        "downloadUrl":  "https://github.com/fymcontroller-ux/FY-Store/releases/download/v1.0/mtv.xapk",
+        "downloadUrl":  "https://github.com/fymcontroller-ux/FY-Store/releases/download/v1.0/myt.xapk",
         "version":  "6.3.4"
     }
 ]
