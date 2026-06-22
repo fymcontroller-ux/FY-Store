@@ -178,5 +178,14 @@
         "iconUrl":  "https://raw.githubusercontent.com/fymcontroller-ux/FY-Store/main/icons/rectv.png",
         "downloadUrl":  "https://github.com/fymcontroller-ux/FY-Store/releases/download/v1.0/rectvbox.apk",
         "version":  "20.2"
+    },
+    {
+        "id":  "16",
+        "name":  "Equalizer",
+        "pkgName":  "com.jazibkhan.equalizer",
+        "description":  "Ses Ayar Uygulaması",
+        "iconUrl":  "https://raw.githubusercontent.com/fymcontroller-ux/FY-Store/main/icons/equalizer.png",
+        "downloadUrl":  "https://github.com/fymcontroller-ux/FY-Store/releases/download/v1.0/equalizer.apk",
+        "version":  "4.7.6"
     }
 ]
