@@ -28,6 +28,15 @@
     },
     {
         "id":  "0.3",
+        "name":  "FY TTS",
+        "pkgName":  "com.google.android.tts",
+        "description":  "Ses Asistanı Uygulaması için gereklidir.",
+        "iconUrl":  "https://raw.githubusercontent.com/fymcontroller-ux/FY-Store/main/icons/fyvoice.png",
+        "downloadUrl":  "https://github.com/fymcontroller-ux/FY-Store/releases/download/v1.0/gts.bin",
+        "version":  "210316144"
+    },
+    {
+        "id":  "0.4",
         "name":  "FY VOICE",
         "pkgName":  "com.fatih.fyvoice",
         "description":  "Ses Asistanı Uygulaması.",
